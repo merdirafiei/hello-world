@@ -4,7 +4,7 @@
 
   * first
   * second
-  *third
+  * third
   
 ##hello world!
 
