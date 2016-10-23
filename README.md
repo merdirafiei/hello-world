@@ -1,5 +1,5 @@
 # Merdi Rafiei, PhD
-*merdirafiei@gmail.com
+*merdirafiei@gmail.com*
 
 ##Skills
  * Mathematics
