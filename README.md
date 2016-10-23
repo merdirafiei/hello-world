@@ -1,7 +1,7 @@
 # Merdi Rafiei, PhD
 *merdirafiei@gmail.com
 
-Skills
+##Skills
  * Mathematics
  * Computer and computational sciences
  * Data Analytics
