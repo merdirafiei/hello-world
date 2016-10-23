@@ -1,10 +1,8 @@
-# hello-world
+# Merdi Rafiei, PhD
+*merdirafiei@gmail.com
 
-*hello world*
-
-  * first
-  * second
-  * third
-  
-##hello world!
-
+Skills
+ * Mathematics
+ * Computer and computational sciences
+ * Data Analytics
+ * Statistics
